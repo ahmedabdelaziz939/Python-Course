@@ -1,0 +1,9 @@
+person:ahmed
+ age:22 
+ city:giza
+person:hoss
+ age:22 
+ city:salam
+07person:sami
+ age:22 
+ city:zayed
